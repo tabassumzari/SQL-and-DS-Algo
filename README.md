@@ -31,6 +31,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tabassumzari/SQL/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tabassumzari/SQL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tabassumzari/SQL/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -42,6 +43,7 @@
 | [0383-ransom-note](https://github.com/tabassumzari/SQL/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tabassumzari/SQL/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tabassumzari/SQL/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/tabassumzari/SQL/tree/main/0771-jewels-and-stones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
