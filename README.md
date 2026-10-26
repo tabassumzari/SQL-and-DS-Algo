@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tabassumzari/SQL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tabassumzari/SQL/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -97,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/tabassumzari/SQL/tree/main/1672-richest-customer-wealth/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tabassumzari/SQL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
