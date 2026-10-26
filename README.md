@@ -84,6 +84,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/tabassumzari/SQL/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0709-to-lower-case](https://github.com/tabassumzari/SQL/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/tabassumzari/SQL/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/tabassumzari/SQL/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tabassumzari/SQL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/tabassumzari/SQL/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tabassumzari/SQL/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -122,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/tabassumzari/SQL/tree/main/0724-find-pivot-index/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/tabassumzari/SQL/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
