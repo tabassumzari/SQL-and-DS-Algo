@@ -33,6 +33,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/tabassumzari/SQL/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tabassumzari/SQL/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0724-find-pivot-index](https://github.com/tabassumzari/SQL/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/tabassumzari/SQL/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tabassumzari/SQL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tabassumzari/SQL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -113,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tabassumzari/SQL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/tabassumzari/SQL/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
