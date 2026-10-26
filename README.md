@@ -41,6 +41,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/tabassumzari/SQL/tree/main/0205-isomorphic-strings/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/tabassumzari/SQL/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tabassumzari/SQL/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/tabassumzari/SQL/tree/main/0383-ransom-note/) | Easy |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/tabassumzari/SQL/tree/main/0006-zigzag-conversion/) | Medium |
+| [0205-isomorphic-strings](https://github.com/tabassumzari/SQL/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/tabassumzari/SQL/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/tabassumzari/SQL/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/tabassumzari/SQL/tree/main/0409-longest-palindrome/) | Easy |
