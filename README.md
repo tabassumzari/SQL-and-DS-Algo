@@ -85,6 +85,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tabassumzari/SQL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/tabassumzari/SQL/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tabassumzari/SQL/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1678-goal-parser-interpretation](https://github.com/tabassumzari/SQL/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/tabassumzari/SQL/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
